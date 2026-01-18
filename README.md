@@ -93,26 +93,61 @@
 
 ## Projects
 
-### 🚀 Proyectos en Producción
+### 🌐 Proyectos Web Empresariales
 
+#### GrupoVii
 <p>
-Tengo varios proyectos en producción, algunos de los cuales son privados por ser de empresas, pero puedes revisarlos en línea a través de sus enlaces públicos.
+Plataformas web desarrolladas para empresas del GrupoVii:
+</p>
+<ul>
+  <li><a href="https://maxximundo.com/" target="_blank">Maxximundo</a> - Sistema de cotización y catálogo de productos</li>
+  <li><a href="https://autollanta.com" target="_blank">Autollanta</a> - Sistema de cotización y catálogo de productos</li>
+  <li><a href="https://ikonix.ec" target="_blank">Ikonix</a> - Sistema de cotización y catálogo de productos</li>
+  <li><a href="https://stox.com.ec" target="_blank">Stox</a> - Sistema de cotización y catálogo de productos</li>
+</ul>
+
+#### AIMEC EC
+<p>
+<a href="https://aimec-ec.com/" target="_blank">AIMEC EC</a> - Cotizadora de productos industriales con sistema de gestión integrado
 </p>
 
-### 📱 App Móvil Publicada
-
+#### Agendo
 <p>
-Mi aplicación desarrollada con Flutter está disponible en las tiendas de iOS y Android.
+<a href="https://heyagendo.com/" target="_blank">Agendo</a> - Plataforma web y portal administrativo completo para gestión de servicios
 </p>
 
-<!-- Agrega aquí tus proyectos públicos de GitHub -->
-<!-- Ejemplo: -->
-<!-- <a href="https://github.com/TU_USUARIO/REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPO&theme=tokyonight" />
-</a> -->
+### 📱 Aplicaciones Móviles
 
+#### Mamá Kanguro Pro Care
 <p>
-💡 <em>Nota: Puedes agregar aquí los repositorios públicos de tus proyectos, así como enlaces a los sitios web en producción.</em>
+Plataforma completa para conectar familias con niñeras profesionales verificadas. Incluye web, app iOS y Android.
+</p>
+<p align="center">
+  <a href="https://www.mamakanguroprocare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.mamakanguroprocare.app" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  </a>
+  <a href="https://apps.apple.com/ec/app/mam%C3%A1-kanguro-pro-care/id6743715580" target="_blank">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+  </a>
+</p>
+
+#### CuidaTuPlata
+<p>
+Mi aplicación personal de finanzas desarrollada con Flutter. Disponible en iOS y Android.
+</p>
+<p align="center">
+  <a href="https://cuidatuplata.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.cuidatuplata.app" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  </a>
+  <a href="https://apps.apple.com/ec/app/cuidatuplata/id6754613711" target="_blank">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+  </a>
 </p> 
 
 
