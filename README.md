@@ -153,27 +153,9 @@ Mi aplicación personal de finanzas desarrollada con Flutter. Disponible en iOS 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Diego's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiegoBarpDev&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoBarpDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DiegoBarpDev" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/DiegoBarpDev"><img alt="Diego's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiegoBarpDev&custom_title=Diego's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoBarpDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DiegoBarpDev" height="192px"/>
+</p>
 
 <br/>
 
